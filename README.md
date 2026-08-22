@@ -1,5 +1,4 @@
-# show_picture
-show_picture
+# Show_picture - launch internal picture viewer with loaded from file picture
 
 Must have e:\demo.jpg
 
